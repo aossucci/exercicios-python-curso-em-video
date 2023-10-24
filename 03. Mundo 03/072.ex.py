@@ -13,3 +13,4 @@ while True:
     print('O número digitado não está entre 1 e 20.', end=' ')
 
 print(f'O número digitado foi o {numeros[num - 1]}')
+print('fim')
