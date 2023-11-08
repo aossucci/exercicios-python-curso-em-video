@@ -2,6 +2,7 @@
 
 lanches = ('Hamburguer',  'Batata', 'Pizza', 'Suco')
 
+
 for comida in lanches:
     print(comida)
 
